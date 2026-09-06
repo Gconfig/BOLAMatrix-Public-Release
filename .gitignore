@@ -1,0 +1,7 @@
+# Maintainer scratch notes
+_ASSEMBLY-NOTES.md
+# Internal screenshot capture guides (not for public repo)
+docs/SCREENSHOTS.md
+docs/screenshots/PLACE-SCREENSHOTS-HERE.md
+# Raw (un-annotated) screenshot inputs
+*.raw.png

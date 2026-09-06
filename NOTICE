@@ -1,0 +1,9 @@
+Authorized Use Notice
+
+BOLAMatrix is designed for authorized security testing only. It is intended to be
+run within testing environments you own or are explicitly permitted to test. Always
+obtain proper authorization before testing any system. The author accepts no
+responsibility or liability for any misuse of, or damage caused by, this software.
+
+BOLAMatrix is licensed under the MIT License; see the LICENSE file.
+Copyright (c) 2026 Kumail Hussain (https://www.linkedin.com/in/kumailh)
